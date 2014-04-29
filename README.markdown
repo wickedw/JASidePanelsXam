@@ -5,6 +5,7 @@ JASidePanelsXam is a Xamarin IOS port of the wonderful:
 <https://github.com/gotosleep/JASidePanels>
 
 The code was ported from a copy of JASidePanels made in April 2013.
+It was done as a relative beginner to IOS and Xamarin Development.
 
 # Demo
 The included demo project shows the main usage scenarios of the code in action.
